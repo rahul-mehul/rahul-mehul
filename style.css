@@ -1,4 +1,4 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -6,4 +6,130 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Write CSS code below */
+.main-content {
+    height: 1000px;
+    display: grid;
+    grid-template-columns: 300px 700px;
+}
+
+.left-section {
+    background-color: #535957;
+
+}
+
+.right-section {
+    background-color: rgb(225, 246, 247);
+}
+
+.left-content {
+    padding: 1rem;
+    color: #fff;
+}
+
+
+
+.profilename {
+    padding: 1rem;
+    width: 60%;
+    border: 5px solid white;
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 1.2rem;
+    /* color: white; */
+    text-align: center;
+    text-transform: uppercase;
+    padding: .8rem;
+    letter-spacing: .03rem;
+}
+
+.designetion {
+    font-size: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: .8rem;
+    border-bottom: 1px solid;
+
+}
+
+.descripation {
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+    padding: 1rem;
+    line-height: 1.5rem;
+}
+
+.contact-item {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    cursor: pointer;
+}
+
+.contact-details {
+
+    margin-top: 1rem;
+}
+
+.skills {
+    font-size: .75rem;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1rem .05rem;
+}
+
+.skill-name {
+    font-size: .65rem;
+    padding-bottom: .5rem;
+    text-transform: uppercase;
+}
+
+.skill {
+    margin: .75rem;
+}
+
+.prograss-bar {
+    border: 2px solid white;
+    width: 90%;
+    height: 4px;
+
+}
+
+.css {
+    width: 85%;
+}
+
+.js {
+    width: 75%;
+}
+
+
+.right-section {
+    padding: 2rem 3rem;
+}
+
+.right-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: .5;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+}
+
+.about-me-section {
+    margin-bottom: 2rem;
+
+}
+
+.education-detail {
+    display: flex;
+    /* margin: 1rem 0; */
+}
