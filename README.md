@@ -9,7 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=rahul-mehul" alt="rahul-mehul" /></a> </p>
 
-- 📫 How to reach me **rkrahul051@gmail.com**
+- 📫 How to reach me **rkrahul051@gmail.com** <br/>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/rahul-kumar-7a1947215/">👋<b>Linkedin Profile</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
