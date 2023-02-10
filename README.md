@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" width="400" alt="...">
+<div align="center">
+<img  src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" width="200" alt="...">
+        </div>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=rahul-mehul&label=Profile%20views&color=0e75b6&style=flat"
@@ -13,7 +15,7 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/rahul-kumar-7a1947215/">👋<b>Linkedin Profile</b></a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
